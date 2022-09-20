@@ -15,4 +15,11 @@ h1{
 ul,
 ol{
     list-style-position: inside;
+    list-style: none;
+    
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
 }
