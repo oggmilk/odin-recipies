@@ -23,3 +23,7 @@ ol{
     display: flex;
     justify-content: space-between;
 }
+
+.right{
+    display: flex;
+}
