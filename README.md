@@ -1,7 +1,7 @@
-# odin-recipies
+# recipes
 
 In this project, I plan to practice/demonstrate my knowledge gained throughout the HTML
-module of the odin project by creating a recipie website.
+module of the odin project by creating a recipe website.
 Sike
 
 20220823-
